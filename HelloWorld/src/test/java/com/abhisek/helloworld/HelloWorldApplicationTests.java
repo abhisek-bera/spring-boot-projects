@@ -1,4 +1,4 @@
-package com.eabhisek.helloworld;
+package com.abhisek.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

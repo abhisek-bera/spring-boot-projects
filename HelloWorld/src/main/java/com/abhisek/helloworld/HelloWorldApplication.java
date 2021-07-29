@@ -1,4 +1,4 @@
-package com.eabhisek.helloworld;
+package com.abhisek.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
